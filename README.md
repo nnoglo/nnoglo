@@ -6,7 +6,7 @@ I'm aiming for a blue-team / security analyst career and plan to transfer to Geo
 
 ## 💼 Experience
 
-**IT Help Desk Assistant** · Normandale Community College
+**IT Help Desk Assistant** · Normandale Community College ·
 *Oct 2026 – Present* (part-time, work-study)
 - Verify user identity (school ID) before resetting account passwords for students and staff.
 - Troubleshoot and resolve common printer issues.
@@ -29,7 +29,10 @@ I'm aiming for a blue-team / security analyst career and plan to transfer to Geo
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42)
 
 ## 🌍 Languages
-English, French, Mina, Ewe
+![English](https://img.shields.io/badge/-English-D2042D?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=D2042D)
+![French](https://img.shields.io/badge/-French-0F52BA?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0F52BA)
+![Mina](https://img.shields.io/badge/-Mina-DAA520?style=for-the-badge&logo=googletranslate&logoColor=black&labelColor=DAA520)
+![Ewe](https://img.shields.io/badge/-Ewe-7B3F00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=7B3F00)
 
 ## 📫 Connect
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717) ](https://github.com/nnoglo)
