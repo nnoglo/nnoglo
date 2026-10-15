@@ -4,6 +4,14 @@ I'm a student at Normandale Community College and am currently on the Computer S
 
 I'm aiming for a blue-team / security analyst career and plan to transfer to George Mason University to study Cybersecurity Engineering.
 
+## 💼 Experience
+
+**IT Help Desk Assistant** · Normandale Community College
+*Oct 2026 – Present* (part-time, work-study)
+- Verify user identity (school ID) before resetting account passwords for students and staff.
+- Troubleshoot and resolve common printer issues.
+- Learning to document and track support requests in the ticketing system.
+
 ## 🚀 Technology and Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
