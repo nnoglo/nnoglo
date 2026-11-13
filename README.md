@@ -12,7 +12,6 @@ I'm a student at Normandale Community College and am currently on the Computer S
 - Troubleshoot and resolve common printer issues.
 - Learning to document and track support requests in the ticketing system.
 
-
 <h2 align="center">🚀 Technology and Tools</h2>
 
 <p align="center">
@@ -56,21 +55,33 @@ I'm a student at Normandale Community College and am currently on the Computer S
   <img src="https://img.shields.io/badge/-Ewe-7B3F00?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
-
-
 <h2 align="center">📪 Connect</h2>
 
-<p align="center">
-  <a href="https://github.com/nnoglo">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nelson-noglo-3ba23b376/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noglonelson@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Gmail" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nnoglo">
+        <img src="https://skillicons.dev/icons?i=github" width="70" alt="GitHub" />
+      </a>
+      <br>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/nelson-noglo-3ba23b376/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="70" alt="LinkedIn" />
+      </a>
+      <br>
+      <strong>LinkedIn</strong>
+    </td>
+    <td align="center">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noglonelson@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="70" alt="Gmail" />
+      </a>
+      <br>
+      <strong>Gmail</strong>
+    </td>
+  </tr>
+</table>
+
+
 
