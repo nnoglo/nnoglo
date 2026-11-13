@@ -12,6 +12,7 @@ I'm a student at Normandale Community College and am currently on the Computer S
 - Troubleshoot and resolve common printer issues.
 - Learning to document and track support requests in the ticketing system.
 
+
 <h2 align="center">🚀 Technology and Tools</h2>
 
 <p align="center">
@@ -20,22 +21,24 @@ I'm a student at Normandale Community College and am currently on the Computer S
   </a>
 </p>
 
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=557C94)
-![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=4D4D4D)
-![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white&labelColor=F15A24)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=4EAA25)
-![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=41CD52)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=183A61)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=E95420) 
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42)
+<p align="center">
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
 
-<h2 align="center">Certifications 📄</h2>
+<h2 align="center">🎯 Certifications</h2>
 <p align="center">
   <img src="./images/networkplus.png" width="120" alt="CompTIA Network+">
   <br>
@@ -44,13 +47,30 @@ I'm a student at Normandale Community College and am currently on the Computer S
   <em>In Progress</em>
 </p>
 
-## 🌍 Languages
-![English](https://img.shields.io/badge/-English-D2042D?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=D2042D)
-![French](https://img.shields.io/badge/-French-0F52BA?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0F52BA)
-![Mina](https://img.shields.io/badge/-Mina-DAA520?style=for-the-badge&logo=googletranslate&logoColor=black&labelColor=DAA520)
-![Ewe](https://img.shields.io/badge/-Ewe-7B3F00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=7B3F00)
+<h2 align="center">🌍 Languages</h2>
 
-## 📫 Connect
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717) ](https://github.com/nnoglo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/nelson-noglo-3ba23b376/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](https://mail.google.com/mail/?view=cm&fs=1&to=noglonelson@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/-English-D2042D?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/-French-0F52BA?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mina-DAA520?style=for-the-badge&logo=googletranslate&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Ewe-7B3F00?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
+
+
+
+<h2 align="center">📪 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/nnoglo">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nelson-noglo-3ba23b376/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noglonelson@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Gmail" />
+  </a>
+</p>
+
