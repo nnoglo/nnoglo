@@ -37,7 +37,7 @@ I'm a student at Normandale Community College and am currently on the Computer S
 
 <h2 align="center">Certifications 📄</h2>
 <p align="center">
-  <img src="./images/Network+.png" width="120" alt="CompTIA Network+">
+  <img src="./images/networkplus.png" width="120" alt="CompTIA Network+">
   <br>
   <strong>CompTIA Network+</strong>
   <br>
