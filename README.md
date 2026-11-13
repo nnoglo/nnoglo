@@ -1,10 +1,10 @@
-## Hi there, I'm Nelson 👋
+<h1 align="center">Hi there, I'm Nelson 👋</h1>
 
-I'm a student at Normandale Community College and am currently on the Computer Science Transfer Pathway. I'm deeply interested in IT systems, cybersecurity, and programming languages. 
+<p align="center">
+I'm a student at Normandale Community College and am currently on the Computer Science Transfer Pathway. I'm deeply interested in IT systems, cybersecurity, and programming languages.
+</p>
 
-I'm aiming for a blue-team / security analyst career and plan to transfer to George Mason University to study Cybersecurity Engineering.
-
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
 **IT Help Desk Assistant** · Normandale Community College ·
 *Oct 2026 – Present* (part-time, work-study)
@@ -12,7 +12,14 @@ I'm aiming for a blue-team / security analyst career and plan to transfer to Geo
 - Troubleshoot and resolve common printer issues.
 - Learning to document and track support requests in the ticketing system.
 
-## 🚀 Technology and Tools
+<h2 align="center">🚀 Technology and Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,python,c,kali,git,github,bash,qt,ubuntu" />
+  </a>
+</p>
+
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
@@ -27,6 +34,15 @@ I'm aiming for a blue-team / security analyst career and plan to transfer to Geo
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=183A61)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=E95420) 
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42)
+
+<h2 align="center">Certifications 📄</h2>
+<p align="center">
+  <img src="./images/network-plus.png" width="120" alt="CompTIA Network+">
+  <br>
+  <strong>CompTIA Network+</strong>
+  <br>
+  <em>In Progress</em>
+</p>
 
 ## 🌍 Languages
 ![English](https://img.shields.io/badge/-English-D2042D?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=D2042D)
